@@ -55,7 +55,7 @@ const catalog: Product[] = [
     name: "Vela Aromática — exemplo",
     category: "vela",
     description:
-      "Item de exemplo para demonstrar o layout do catálogo. Substitua pelos dados reais do seu produto em src/data/products.ts.",
+      "Itemteste de exemplo para demonstrar o layout do catálogo. Substitua pelos dados reais do seu produto em src/data/products.ts.",
     fragrance: null,
     size: null,
     price: null,
