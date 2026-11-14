@@ -75,7 +75,7 @@ const catalog: Product[] = [
     fragrance: null,
     size: null,
     price: null,
-    images: [],
+    images: ["/images/products/sabonete-cereja-avela-1.jpg"],
     featured: true,
     active: true,
     available: true,
