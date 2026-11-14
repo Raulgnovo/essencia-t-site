@@ -1,0 +1,21 @@
+{
+  "name": "essencia-t-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Site oficial da ESSÊNCIA T — vitrine de produtos artesanais com pedidos pelo WhatsApp.",
+  "scripts": {
+    "build": "tsx src/build.ts",
+    "dev": "tsx scripts/dev.ts",
+    "typecheck": "tsc --noEmit",
+    "start": "tsx scripts/dev.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
